@@ -13,3 +13,5 @@ Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastru
 Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\refint\Practice.CleanArchitecture.Infrastructure.dll
 Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.pdb
 Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\ref\Practice.CleanArchitecture.Infrastructure.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\bin\Debug\net7.0\Practice.CleanArchitecture.Application.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\bin\Debug\net7.0\Practice.CleanArchitecture.Application.pdb
