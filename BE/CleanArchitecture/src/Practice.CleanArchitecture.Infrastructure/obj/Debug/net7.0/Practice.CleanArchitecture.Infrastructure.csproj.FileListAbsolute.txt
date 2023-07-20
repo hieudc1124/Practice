@@ -1,0 +1,15 @@
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.AssemblyInfo.cs
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\bin\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.deps.json
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\bin\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\bin\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.pdb
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\bin\Debug\net7.0\Practice.CleanArchitecture.Domain.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\bin\Debug\net7.0\Practice.CleanArchitecture.Domain.pdb
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.csproj.CopyComplete
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\refint\Practice.CleanArchitecture.Infrastructure.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\Practice.CleanArchitecture.Infrastructure.pdb
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Infrastructure\obj\Debug\net7.0\ref\Practice.CleanArchitecture.Infrastructure.dll

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "+0+RJRJv6AgUtAseubTNxC5jntobrOeabTxiXsI1PaZnCGXLeS/42iQ0Bc4eOa17+l6vgoi9U0LCIwDwzM0BxQ==",
+  "success": true,
+  "projectFilePath": "Z:\\Source\\Practice\\BE\\CleanArchitecture\\src\\Practice.CleanArchitecture.Infrastructure\\Practice.CleanArchitecture.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HieuDC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.9\\microsoft.entityframeworkcore.inmemory.7.0.9.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.fileproviders.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.hosting.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.logging.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\HieuDC\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.6.23329.7\\microsoft.extensions.primitives.8.0.0-preview.6.23329.7.nupkg.sha512"
+  ],
+  "logs": []
+}

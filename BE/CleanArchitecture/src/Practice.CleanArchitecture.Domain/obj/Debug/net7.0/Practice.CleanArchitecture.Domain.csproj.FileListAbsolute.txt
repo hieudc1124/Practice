@@ -1,0 +1,12 @@
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\bin\Debug\net7.0\Practice.CleanArchitecture.Domain.deps.json
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\bin\Debug\net7.0\Practice.CleanArchitecture.Domain.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\bin\Debug\net7.0\Practice.CleanArchitecture.Domain.pdb
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\Practice.CleanArchitecture.Domain.csproj.AssemblyReference.cache
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\Practice.CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\Practice.CleanArchitecture.Domain.AssemblyInfoInputs.cache
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\Practice.CleanArchitecture.Domain.AssemblyInfo.cs
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\Practice.CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\Practice.CleanArchitecture.Domain.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\refint\Practice.CleanArchitecture.Domain.dll
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\Practice.CleanArchitecture.Domain.pdb
+Z:\Source\Practice\BE\CleanArchitecture\src\Practice.CleanArchitecture.Domain\obj\Debug\net7.0\ref\Practice.CleanArchitecture.Domain.dll
